@@ -1,0 +1,47 @@
+{
+    "start": {
+        "description": "Мирная деревня, окруженная зелеными полями и лесами.",
+        "illustration": "https://disk.yandex.ru/i/gppRxuDfRmhl6Q",
+        "actions": ["Исследовать лес", "Поговорить с местными жителями", "Посетить таверну"]
+    },
+    "taverna": {
+        "description": "Мирная на первый взгляд таверна.",
+        "illustration": "https://disk.yandex.ru/i/CCpy7hzdCnzBTg",
+        "actions": ["ВЫПИТЬ", "Уйти с миром"]
+    },
+    "forest": {
+        "description": "Темный и загадочный лес, наполненный опасностями и древними тайнами.",
+        "illustration": "https://disk.yandex.ru/i/sJVEnd1og7_jrA",
+        "actions": ["Сразиться с волками", "Пойти в город"]
+    },
+    "town": {
+        "description": "Бурлящий центр торговли и политических интриг.",
+        "illustration": "https://disk.yandex.ru/i/h3VS9GupoSSQKg",
+        "actions": ["Посетить рынок"]
+    },
+    "dungeon": {
+        "description": "Темные коридоры, полные ловушек и чудовищ.",
+        "illustration": "https://disk.yandex.ru/i/w9AKsjeE3_5BuQ",
+        "actions": ["Попробовать проскользнуть мимо", "Сразиться с стражами"]
+    },
+    "final": {
+        "description": "Поздравляю тебя с прохождением моего маленького квеста!!!",
+        "illustration": "https://disk.yandex.ru/i/TaYqcfhp7DjiAw",
+        "actions": ["Интересный квест))"]
+    },
+    "end": {
+        "description": "Решающий момент вашего приключения.",
+        "illustration": "https://disk.yandex.ru/i/84YewqfYoGJfLQ",
+        "actions": ["Использовать артефакт для спасения города", "Сразиться с тёмным магом", "Убежать и спастись"]
+    },
+    "Rinok": {
+        "description": "Городской рынок.",
+        "illustration": "https://disk.yandex.ru/i/3OYrgCJe5MlB8w",
+        "actions": ["Расспросить торговцев о подземелье", "Купить рыбки"]
+    },
+    "Rinok2": {
+    "description": "Городской рынок.",
+    "illustration": "https://disk.yandex.ru/i/NpERKf8xuz4fWQ",
+    "actions": ["Пойти в темное подземелье"]
+    }
+}
