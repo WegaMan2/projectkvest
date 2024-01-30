@@ -1,8 +1,8 @@
 import telebot
 import json
 from game import Game
-API_TOKEN = 'TOKEN'
-bot = telebot.TeleBot(API_TOKEN)
+from config import TOKEN
+bot = telebot.TeleBot(TOKEN)
 
 # Загрузка данных из JSON-файла
 with open('locations.json', 'r', encoding='utf-8') as f:
